@@ -1,3 +1,7 @@
+KIKA-Bot
+--------
+kika-bot is a for of Mendel90 which will be build in the Hacklab KIKA - Skopje / Macedonia - http://blog.spodeli.org/
+
 Limitations
 -----------
 Currently only supports mendel and sturdy machine variants, the huxley version needs more work.

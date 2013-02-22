@@ -1,9 +1,8 @@
 //
-// Mendel90
+// KikaBOT
 //
 // GNU GPL v2
-// nop.head@gmail.com
-// hydraraptor.blogspot.com
+// blog.spodeli.org
 //
 // Configuration file
 //
